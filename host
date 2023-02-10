@@ -1,5 +1,5 @@
 pagead2.googlesyndication.com
-adservice.google.com,
+adservice.google.com
 pagead2.googleadservices.com
 static.media.net
 media.net
@@ -14,13 +14,14 @@ adtago.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
 advice-ads.s3.amazonaws.com
 affiliationjs.s3.amazonaws.com
-advertising-api-eu.amazon.com,
+advertising-api-eu.amazon.com
 amazonaax.com
 amazonclix.com
 assoc-amazon.com
 google-analytics.com
 ssl.google-analytics.com
-hotjar.com,static.hotjar.com
+hotjar.com
+static.hotjar.com
 mouseflow.com
 a.mouseflow.com
 freshmarketer.com
@@ -46,7 +47,8 @@ ads.pinterest.com
 log.pinterest.com
 ads-dev.pinterest.com
 analytics.pinterest.com
-trk.pinterest.com,widgets.pinterest.comads.reddit.com
+trk.pinterest.com
+widgets.pinterest.comads.reddit.com
 d.reddit.com
 rereddit.com
 events.redditmedia.comads.youtube.comanalytics.tiktok.com
